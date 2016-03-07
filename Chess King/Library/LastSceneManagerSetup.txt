@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chess King Project/TestNetwork/TestNetworkClient.unity
+  isLoaded: 1
+  isActive: 1
